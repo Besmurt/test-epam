@@ -5,3 +5,5 @@ Add second line
 Add third line for second commit
 
 Content for feature
+
+Before merge
